@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<br clear="both">
+
+<h2 align="left">Hi 👋! My name is Abasifreke Umana Isaac and I'm a software engineer based in Nigeria.</h2>
 
 ###
 
