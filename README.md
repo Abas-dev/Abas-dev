@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/abas_isaac" target="blank"><img src="https://img.shields.io/twitter/follow/abas_isaac?logo=twitter&style=for-the-badge" alt="abas_isaac" /></a> </p>
 
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abas_isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abas_isaac" height="30" width="40" /></a>
