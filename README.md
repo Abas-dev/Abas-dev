@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abas Isaac</h1>
-<h3 align="center">A passionate software engineer from Nigeria. Lover of python, django and fastapi.</h3>
+<h3 align="center">A passionate software engineer from Nigeria. Lover of python, django and fastapi.</h3>/
+<h4> You can check my private organisation to see more of my personal projects <a href="https://github.com/squicode"></a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abas-dev" /> </p>
 
