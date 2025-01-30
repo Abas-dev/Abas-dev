@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abasifreke Isaac</h1>
 <h3 align="center">A software engineer from nigeria.</h3>
+<h4 align="center">I love building software to solve tommorows problems today. I love python and fastapi for api development</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abas-dev" alt="abas-dev" /></a> </p>
 
